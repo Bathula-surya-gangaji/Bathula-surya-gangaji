@@ -89,8 +89,8 @@ I’ve worked on systems handling **1M+ monthly transactions** and supporting **
 
 📫 Let's Connect!
 
-- 💼 LinkedIn: *add your link*  
-- 🌐 Portfolio: *add your link*  
-- 📧 Email: *add your email*  
+- 💼 LinkedIn:   
+- 🌐 Portfolio:  
+- 📧 Email: suryabathula999@gmail.com 
 
 ```
